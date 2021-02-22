@@ -1,0 +1,4 @@
+#Sat Feb 20 15:29:50 IST 2021
+base.0=/Volumes/mydrive/mac/demo/recipes/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
